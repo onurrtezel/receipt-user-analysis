@@ -1,4 +1,4 @@
-Receipt and User Data Analysis Project
+## Receipt and User Data Analysis Project
 
 -This project aims to store user and receipt data, perform SQL queries, and visualize the data using Python.
 
